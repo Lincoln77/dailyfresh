@@ -2,7 +2,7 @@ altgraph==0.17
 amqp==2.5.2
 asgiref==3.2.3
 billiard==3.5.0.5
-celery==4.1.1
+celery==5.2.2
 certifi==2019.11.28
 cffi==1.14.0
 chardet==3.0.4
